@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Ha Dao (Ha)
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Ha
+last_name: Dao
 
 # Status emoji
 status:
@@ -14,27 +14,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist
+role: Postdoc Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, Grenoble, France
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: Max Planck Institute for Informatics
+    url: https://www.mpi-inf.mpg.de/departments/inet
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
+bio: Postdoc researcher at the INET group, Max Planck Institute for Informatics, Germany. 
+
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Online Privacy
+  - Network measurement
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
+    - course: PhD in Informatics
+      institution: National Institute of Informatics, School of Multidisciplinary Sciences, (NII/SOKENDAI), Japan
       year: 2015
 
 # Social/Academic Networking
@@ -43,48 +43,41 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 # Alternatively, use `google-scholar` icon from `ai` icon pack
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:simon.gravelle@live.fr
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/simongravelle
-    display:
-      header: true
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@simongravelle
-    label: Follow me on Mastodon
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl
-  - icon: cv
-    icon_pack: ai
-    link: files/resume/resume-simon-gravelle.pdf
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: mailto:simon.gravelle@live.fr
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/simongravelle
+  #   display:
+  #     header: true
+  # - icon: mastodon
+  #   icon_pack: fab
+  #   link: https://mastodon.social/@simongravelle
+  #   label: Follow me on Mastodon
+  # - icon: graduation-cap
+  #   icon_pack: fas
+  #   link: https://scholar.google.com/citations?user=xiGSEtYAAAAJ
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: files/resume/resume-simon-gravelle.pdf
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
 
 ### About me ##
 
-I am a computer physicist in soft matter and fluids at interfaces, working at the LIPhy laboratory in Grenoble, France.
+I am a Postdoctoral Researcher in the INET group at the Max Planck Institute for Informatics, Germany, under Prof. Anja Feldmann. I received my Ph.D. from the National Institute of Informatics (NII), SOKENDAI, Japan, supervised by Prof. Kensuke Fukuda. My research focuses on online privacy and data protection.
 
-<a href="https://github.com/simongravelle" target="_blank" style="float: right">
+### Community service ##
+**TPC member** - PETs 2025, PAM 2025, PETs 2024, PAM 2023, SoICT 2023
+
+**Reviewer** - COMCOM 2024, SoICT 2024, PETs 2023, TWEB 2021
+
+<!-- <a href="https://github.com/simongravelle" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
-</a>
+</a> -->
 
-<span style="display: block; height: 8px;"></span>
+<!-- <span style="display: block; height: 8px;"></span> -->
 
-### What I share on <a href="https://github.com/simongravelle" target="_blank" style="text-decoration: none;">GitHub</a> ##
-
-  - Input files for molecular simulations
-  - Scripts for preparing and analyzing simulations
-  - Data and scripts from my recent publications
-
-<span style="display: block; height: 8px;"></span>
-
-### My primary outreach projects ##
-
-  - <a href="https://github.com/lammpstutorials" target="_blank" style="text-decoration: none;">LAMMPS tutorials</a> for LAMMPS beginners
-  - <a href="https://github.com/mdcourse" target="_blank" style="text-decoration: none;">Guides</a> for implementing molecular simulations from scratch
 

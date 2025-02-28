@@ -2,7 +2,7 @@
 active: true
 widget: portfolio
 headless: true
-weight: 30
+weight: 20
 title: News
 subtitle: ''
 content:
@@ -13,10 +13,10 @@ content:
       tag: '*'
     - name: Job
       tag: Job
-    - name: Personal
-      tag: Personal
-    - name: Outreach
-      tag: Outreach
+    # - name: Personal
+    #   tag: Personal
+    - name: Paper
+      tag: Paper
 design:
   columns: '2'
   # Toggle between the various page layout types.
